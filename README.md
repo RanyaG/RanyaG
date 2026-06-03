@@ -7,7 +7,6 @@
   <img align="center" alt="Ranya-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ranya-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ranya-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Ranya-pic" height="150" src="https://i.picasion.com/pic91/dde36da93923528ee50fade6e968acf9.gif">
 </div>
 
    ##

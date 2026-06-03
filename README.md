@@ -1,7 +1,5 @@
-##  Hi there 👋 I'm Ranya Greco. I'm a brazilian full-stack web development student
- 
+
 - 🔭 Working on personal projects
-- 🌱 Learning javascript
 - 👽 Pronouns: she/her
 
 
